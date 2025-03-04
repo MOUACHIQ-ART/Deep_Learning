@@ -1,4 +1,4 @@
-# Analyse de Graphes et Réseaux Neuronaux
+# Analyse de Graphes et Réseaux Neurones
 
 ## Description
 
